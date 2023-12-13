@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "langchain": "^0.0.205"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "type": "module"
+}
